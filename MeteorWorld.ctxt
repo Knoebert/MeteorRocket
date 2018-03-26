@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MeteorWorld
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=MeteorWorld()
+comment3.params=
+comment3.target=void\ fillWorld()
+comment4.params=
+comment4.target=Counter\ getCounter()
+comment5.params=
+comment5.target=int[]\ getRocLoc()
+numComments=6
